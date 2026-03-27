@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Saha</h1>
-<h3 align="center">Full Stack Developer | Java • Spring Boot • React • Web3</h3>
+<h3 align="center">Full Stack Developer | Java • Spring Boot • React • Next JS</h3>
 
 ---
 
