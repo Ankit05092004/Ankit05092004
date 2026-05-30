@@ -24,7 +24,8 @@
 
 - 📊 **Spiritual Store Ecom Webapplication**  
   NextJS
-
+- 💲**CryptoTracker & Alert**  
+  Springboot + Thymleaf
 
 
 
